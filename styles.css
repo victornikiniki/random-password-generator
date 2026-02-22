@@ -1,0 +1,26 @@
+#container { 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#options{ 
+    margin: 15px;
+}
+
+button{ 
+    margin-top: 15px;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+button:active{ 
+    background-color: hsl(36, 4%, 51%);
+}
+
+#passwordLength{ 
+     max-width: 50px;
+}
+
+#password{ 
+    font-size: 1.5rem;
+    margin-top: 25px; 
+}
